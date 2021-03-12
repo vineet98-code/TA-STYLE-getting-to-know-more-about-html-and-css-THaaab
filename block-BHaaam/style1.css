@@ -1,0 +1,36 @@
+.bu {
+    background-color: pink;
+}
+
+body {
+    position: relative;
+    top: 220%;
+    padding-top: 0.5px;
+    padding-bottom: 150px;
+    background-color: blueviolet;
+    align-content: center;
+    letter-spacing: 1px;
+    width: 100%;
+    align-self: auto;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+html {
+    width: 100%;
+    align-content: center;
+}
+
+body {
+    position: relative;
+    top: 220%;
+    padding-top: 0.5px;
+    padding-bottom: 150px;
+    background-color: lightsalmon;
+    align-content: center;
+    letter-spacing: 1px;
+    width: 100%;
+    align-self: auto;
+}
